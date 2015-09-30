@@ -12,10 +12,10 @@ namespace tx_zeroclipboard
         protected void dummyButton_Click(object sender, EventArgs e)
         {
             // save the selection as RTF text
-            string newvalue = "";
-            TextControl1.Selection.Save(out newvalue, TXTextControl.Web.StringStreamType.RichTextFormat);
+            string sRTFSelection = "";
+            TextControl1.Selection.Save(out sRTFSelection, TXTextControl.Web.StringStreamType.RichTextFormat);
             // fill the hidden textbox with the RTF string
-            TextBox1.Text = newvalue;
+            TextBox1.Text = sRTFSelection;
 
             // call the attachZeroClipboard() function to update ZeroClipboard
             System.Web.UI.ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "CallAttachZeroClipboard", "attachZeroClipboard(); toggleClipboardDropDown();", true);
