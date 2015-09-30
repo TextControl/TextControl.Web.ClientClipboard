@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\bjoer_000\Desktop\testpublish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/tx_zeroclipboard.dll">
+      <publishTime>09/29/2015 19:09:08</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>09/29/2015 19:08:06</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/28/2015 23:04:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.js">
+      <publishTime>09/28/2015 23:01:03</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.min.js">
+      <publishTime>09/28/2015 23:01:03</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.min.map">
+      <publishTime>09/28/2015 23:01:03</publishTime>
+    </File>
+    <File Include="Scripts/ZeroClipboard.Core.js">
+      <publishTime>09/29/2015 16:13:00</publishTime>
+    </File>
+    <File Include="Scripts/ZeroClipboard.Core.min.js">
+      <publishTime>09/29/2015 16:13:00</publishTime>
+    </File>
+    <File Include="Scripts/ZeroClipboard.Core.min.map">
+      <publishTime>09/29/2015 16:13:00</publishTime>
+    </File>
+    <File Include="Scripts/ZeroClipboard.js">
+      <publishTime>09/29/2015 16:13:00</publishTime>
+    </File>
+    <File Include="Scripts/ZeroClipboard.min.js">
+      <publishTime>09/29/2015 16:13:00</publishTime>
+    </File>
+    <File Include="Scripts/ZeroClipboard.min.map">
+      <publishTime>09/29/2015 16:13:00</publishTime>
+    </File>
+    <File Include="Scripts/ZeroClipboard.swf">
+      <publishTime>09/29/2015 16:13:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/29/2015 19:09:09</publishTime>
+    </File>
+    <File Include="ZeroClipboard.swf">
+      <publishTime>09/29/2015 18:51:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
