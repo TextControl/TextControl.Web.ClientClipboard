@@ -18,7 +18,7 @@ namespace tx_zeroclipboard
             TextBox1.Text = newvalue;
 
             // call the attachZeroClipboard() function to update ZeroClipboard
-            System.Web.UI.ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "CallAttachZeroClipboard", "attachZeroClipboard();", true);
+            System.Web.UI.ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "CallAttachZeroClipboard", "attachZeroClipboard(); toggleClipboardDropDown();", true);
         }
     }
 }
