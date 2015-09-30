@@ -1,7 +1,0 @@
-C:\Users\bjoer_000\Documents\GitHub\TextControl.Web.ClientClipboard\tx_zeroclipboard\bin\tx_zeroclipboard.dll.config
-C:\Users\bjoer_000\Documents\GitHub\TextControl.Web.ClientClipboard\tx_zeroclipboard\bin\tx_zeroclipboard.dll
-C:\Users\bjoer_000\Documents\GitHub\TextControl.Web.ClientClipboard\tx_zeroclipboard\bin\tx_zeroclipboard.pdb
-C:\Users\bjoer_000\Documents\GitHub\TextControl.Web.ClientClipboard\tx_zeroclipboard\bin\TXTextControl.Web.dll
-C:\Users\bjoer_000\Documents\GitHub\TextControl.Web.ClientClipboard\tx_zeroclipboard\obj\Debug\tx_zeroclipboard.csprojResolveAssemblyReference.cache
-C:\Users\bjoer_000\Documents\GitHub\TextControl.Web.ClientClipboard\tx_zeroclipboard\obj\Debug\tx_zeroclipboard.dll
-C:\Users\bjoer_000\Documents\GitHub\TextControl.Web.ClientClipboard\tx_zeroclipboard\obj\Debug\tx_zeroclipboard.pdb
